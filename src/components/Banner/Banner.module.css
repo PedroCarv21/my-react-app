@@ -1,5 +1,8 @@
-.header{
-    background-color: #1f3d61;
-    border-bottom: 2px solid #c52317;
-    height: 300px;
+div{
+    background-color: rgb(16, 71, 122);
+}
+
+p{
+    color: aliceblue;
+    font-size: 30px;
 }

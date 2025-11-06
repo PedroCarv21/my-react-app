@@ -3,13 +3,9 @@ function Banner(){
     return (
         // Conteúdo a ser exibido
         // JSX = html + xml (html com css dentro do JS)
-        <header className={styles.header}>
-            <span> Aula Senac</span>
-            <nav>
-                <a href="#"> Home</a>
-                <a href="#"> Senac</a>
-            </nav>
-        </header>
+        <div className={styles.div}>
+            <p>Banner</p>
+        </div>
     )
 }
 
