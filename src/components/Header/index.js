@@ -4,10 +4,12 @@ function Header(){
         // Conteúdo a ser exibido
         // JSX = html + xml (html com css dentro do JS)
         <header className={styles.header}>
-            <span> Aula Senac</span>
+            <h1>SenacFlix</h1>
             <nav>
-                <a href="#"> Home</a>
-                <a href="#"> Senac</a>
+                <a href="#"> Início</a>
+                <a href="#"> Filmes</a>
+                <a href="#"> Sobre</a>
+                <a href="#"> Contato</a>
             </nav>
         </header>
     )

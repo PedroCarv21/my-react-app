@@ -10,10 +10,7 @@ import Banner from './components/Banner';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-  <Header></Header>
     <App />
-  <Banner></Banner>
-  <Footer></Footer>
   </>
 );
 

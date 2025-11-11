@@ -4,7 +4,9 @@ function Banner(){
         // Conteúdo a ser exibido
         // JSX = html + xml (html com css dentro do JS)
         <div className={styles.div}>
-            <p>Banner</p>
+            <h2>Assista aqui os melhores filmes!</h2>
+            <p>A plataforma para você assistir sempre o melhor.</p>
+            <button>Saiba mais</button>
         </div>
     )
 }
