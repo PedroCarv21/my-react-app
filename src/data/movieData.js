@@ -68,5 +68,134 @@ export const movieData = [
     "url": "https://meusite.com/filme/12-homens",
     "cover": "twelveMen",
     "category": "Drama"
-  }
+  },
+  {
+    "id": "tt0172495",
+    "title": "Gladiador",
+    "url": "https://meusite.com/filme/gladiador",
+    "cover": "gladiator",
+    "category": "Ação"
+  },
+  {
+    "id": "tt0816692",
+    "title": "Interestelar",
+    "url": "https://meusite.com/filme/interestelar",
+    "cover": "interstellar",
+    "category": "Ficção Científica"
+  },
+  {
+    "id": "tt0137523",
+    "title": "Clube da Luta",
+    "url": "https://meusite.com/filme/clube-da-luta",
+    "cover": "fightClub",
+    "category": "Drama"
+  },
+  {
+    "id": "tt0120689",
+    "title": "À Espera de um Milagre",
+    "url": "https://meusite.com/filme/a-espera-de-um-milagre",
+    "cover": "greenMile",
+    "category": "Drama"
+  },
+  {
+    "id": "tt6751668",
+    "title": "Parasita",
+    "url": "https://meusite.com/filme/parasita",
+    "cover": "parasite",
+    "category": "Drama"
+  },
+  {
+    "id": "tt0145487",
+    "title": "Homem-Aranha (2002)",
+    "url": "https://meusite.com/filme/homem-aranha",
+    "cover": "spiderman",
+    "category": "Ação"
+  },
+  {
+    "id": "tt0848228",
+    "title": "Os Vingadores",
+    "url": "https://meusite.com/filme/os-vingadores",
+    "cover": "avengers",
+    "category": "Ação"
+  },
+  {
+    "id": "tt2543164",
+    "title": "A Chegada",
+    "url": "https://meusite.com/filme/a-chegada",
+    "cover": "arrival",
+    "category": "Ficção Científica"
+  },
+  {
+    "id": "tt0407887",
+    "title": "Os Infiltrados",
+    "url": "https://meusite.com/filme/os-infiltrados",
+    "cover": "departed",
+    "category": "Crime"
+  },
+  {
+    "id": "tt0114814",
+    "title": "Os Suspeitos",
+    "url": "https://meusite.com/filme/os-suspeitos",
+    "cover": "usualSuspects",
+    "category": "Crime"
+  },
+  {
+    "id": "tt0114369",
+    "title": "Seven: Os Sete Crimes Capitais",
+    "url": "https://meusite.com/filme/seven",
+    "cover": "seven",
+    "category": "Crime"
+  },
+  {
+    "id": "tt0102926",
+    "title": "O Silêncio dos Inocentes",
+    "url": "https://meusite.com/filme/silencio-dos-inocentes",
+    "cover": "silenceLambs",
+    "category": "Crime"
+  },
+  {
+    "id": "tt0264426",
+    "title": "Prenda-me se For Capaz",
+    "url": "https://meusite.com/filme/prenda-me",
+    "cover": "catchMe",
+    "category": "Crime"
+  },
+  {
+    "id": "tt0469494",
+    "title": "O Labirinto do Fauno",
+    "url": "https://meusite.com/filme/labirinto-do-fauno",
+    "cover": "panLabyrinth",
+    "category": "Fantasia"
+  },
+  {
+    "id": "tt0241527",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "url": "https://meusite.com/filme/hp-pedra",
+    "cover": "hpStone",
+    "category": "Fantasia"
+  },
+  {
+    "id": "tt0325980",
+    "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "url": "https://meusite.com/filme/piratas",
+    "cover": "pirates",
+    "category": "Fantasia"
+  },
+  {
+    "id": "tt0319061",
+    "title": "Peixe Grande e Suas Histórias Maravilhosas",
+    "url": "https://meusite.com/filme/peixe-grande",
+    "cover": "bigFish",
+    "category": "Fantasia"
+  },
+  {
+    "id": "tt0068646",
+    "title": "As Aventuras de Pi",
+    "url": "https://meusite.com/filme/aventuras-de-pi",
+    "cover": "lifeOfPi",
+    "category": "Fantasia"
+  },
+  
+  
+
 ];
