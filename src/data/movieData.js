@@ -189,13 +189,11 @@ export const movieData = [
     "category": "Fantasia"
   },
   {
-    "id": "tt0068646",
+    // ID CORRIGIDO: tt0068646 duplicado foi alterado para o ID correto: tt0454876
+    "id": "tt0454876",
     "title": "As Aventuras de Pi",
     "url": "https://meusite.com/filme/aventuras-de-pi",
     "cover": "lifeOfPi",
     "category": "Fantasia"
   },
-  
-  
-
 ];
