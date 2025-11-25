@@ -30,7 +30,7 @@ export const movieData = [
   {
     "id": "tt0133093",
     "title": "Matrix",
-    "url": "https://meusite.com/filme/matrix",
+    "url": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
     "cover": "matrix",
     "category": "Ação"
   },
